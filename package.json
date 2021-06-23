@@ -1,0 +1,27 @@
+{
+  "name": "safe-browsing-api-js",
+  "version": "1.0.0",
+  "description": "JS wrapper for Google's Safe Browsing API v4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akadko/safe-browsing-api-js.git"
+  },
+  "keywords": [
+    "safe",
+    "browsing",
+    "api",
+    "google",
+    "malicious",
+    "urls"
+  ],
+  "author": "akadko <akadko12@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akadko/safe-browsing-api-js/issues"
+  },
+  "homepage": "https://github.com/akadko/safe-browsing-api-js#readme"
+}
